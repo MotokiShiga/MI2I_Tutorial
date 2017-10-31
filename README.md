@@ -9,7 +9,9 @@
 
 ### Jupyter Notebooks:
 scikit-learnのk-meansと行列分解：　demo_kmeans_and_matrix_factorizations.ipynb
+
 提案法：　demo_libnmf.ipynb
+
 
 ### 提案法のメイン関数
 libnmf.pyに定義されている。
